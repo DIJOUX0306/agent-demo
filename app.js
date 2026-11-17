@@ -1,7 +1,7 @@
 import { firebaseConfig } from "./firebase-config.js";
 
 // ---- Réglages -------------------------------------------------------------
-const FIREBASE_VERSION = "12.0.0";
+const FIREBASE_VERSION = "13.4.0";
 const MAX_HISTORY = 20;          // nombre de messages renvoyés au modèle
 const MAX_Q = 2000, MAX_A = 8000; // doivent rester alignés sur firestore.rules
 const DEFAULT_SYSTEM = "Tu es un assistant pédagogique clair et concis. Tu réponds en français.";
