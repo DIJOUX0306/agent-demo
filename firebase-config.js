@@ -3,11 +3,10 @@
 // (console Firebase > Paramètres du projet > Général > Vos applications).
 // Tant que ces valeurs d'exemple restent en place, la page fonctionne sans Firestore.
 export const firebaseConfig = {
-  apiKey: "AIzaSyAdwtBsIvcT__n1c0bBqBUrb8vDCvYcvCE",
-  authDomain: "agent-conversationnel-b7607.firebaseapp.com",
-  projectId: "agent-conversationnel-b7607",
-  storageBucket: "agent-conversationnel-b7607.firebasestorage.app",
-  messagingSenderId: "370122177066",
-  appId: "1:370122177066:web:f33959aa970fd40eb2e153
-
+  apiKey: "EXEMPLE-REMPLACER",
+  authDomain: "votre-projet.firebaseapp.com",
+  projectId: "votre-projet",
+  storageBucket: "votre-projet.firebasestorage.app",
+  messagingSenderId: "000000000000",
+  appId: "1:000000000000:web:0000000000000000000000"
 };
